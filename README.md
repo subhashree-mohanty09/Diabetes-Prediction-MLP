@@ -1,5 +1,10 @@
 # Diabetes Prediction using Multilayer Perceptron
 
+
+## Live Demo
+
+🚀 [Try the Diabetes Prediction App](https://diabetes-prediction-mlp-9kajci8m9g4cmhpd7trjez.streamlit.app/)
+
 ## Project Overview
 
 This project focuses on predicting diabetes using the **Pima Indians Diabetes Dataset**. The project follows a complete machine learning pipeline, starting from data exploration and preprocessing to model training, evaluation, saving the final model, and deployment using Streamlit.
