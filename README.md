@@ -67,7 +67,7 @@ Five models were implemented and compared:
 | KNN | 76.62% | 68.75% | 61.11% | 64.71% | 84.12% |
 | SVM | 74.03% | 64.58% | 57.41% | 60.78% | 80.85% |
 | Random Forest | 75.32% | 62.90% | 72.22% | 67.24% | 82.31% |
-| Tuned MLP | 79.87% | 71.70% | 70.37% | 71.03% | 84.96% |
+| Tuned MLP | 80.0% | 71.70% | 70.37% | 71.03% | 84.96% |
 
 The tuned MLP achieved the highest accuracy, F1-score, and ROC-AUC among the five evaluated models.
 
